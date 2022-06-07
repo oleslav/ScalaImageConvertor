@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0mC:\dev\scala_dev\NULP\src\test\scala\ImageConverterTest.scala:21:28: overloaded method value should with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (compileWord: org.scalatest.verbs.CompileWord)(implicit pos: org.scalactic.source.Position)org.scalatest.Assertion <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (fullyMatchWord: org.scalatest.matchers.dsl.FullyMatchWord)ImageConverterTest.this.ResultOfFullyMatchWordForString <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (resultOfAfterWordApplication: org.scalatest.verbs.ResultOfAfterWordApplication)(implicit swawr: org.scalatest.verbs.SubjectWithAfterWordRegistration)Unit <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (right: => Unit)(implicit fun: org.scalatest.verbs.StringVerbBlockRegistration)Unit <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (right: org.scalatest.verbs.BehaveWord)(implicit svbli: org.scalatest.verbs.StringVerbBehaveLikeInvocation)org.scalatest.verbs.BehaveWord <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (right: String)(implicit svsi: org.scalatest.verbs.StringVerbStringInvocation)org.scalatest.verbs.ResultOfStringPassedToVerb <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (endWithWord: org.scalatest.matchers.dsl.EndWithWord)(implicit ev: String <:< String)ImageConverterTest.this.ResultOfEndWithWordForString <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (startWithWord: org.scalatest.matchers.dsl.StartWithWord)(implicit ev: String <:< String)ImageConverterTest.this.ResultOfStartWithWordForString <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (includeWord: org.scalatest.matchers.dsl.IncludeWord)(implicit ev: String <:< String)ImageConverterTest.this.ResultOfIncludeWordForString <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (notExist: org.scalatest.matchers.dsl.ResultOfNotExist)(implicit existence: org.scalatest.enablers.Existence[String])org.scalatest.Assertion <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (existWord: org.scalatest.matchers.dsl.ExistWord)(implicit existence: org.scalatest.enablers.Existence[String])org.scalatest.Assertion <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (containWord: org.scalatest.matchers.dsl.ContainWord)org.scalatest.matchers.dsl.ResultOfContainWord[String] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (haveWord: org.scalatest.matchers.dsl.HaveWord)ImageConverterTest.this.ResultOfHaveWordForExtent[String] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (beWord: org.scalatest.matchers.dsl.BeWord)ImageConverterTest.this.ResultOfBeWordForAny[String] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (inv: org.scalactic.TripleEqualsSupport.TripleEqualsInvocationOnSpread[String])(implicit ev: Numeric[String])org.scalatest.Assertion <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  [U](inv: org.scalactic.TripleEqualsSupport.TripleEqualsInvocation[U])(implicit constraint: org.scalactic.CanEqual[String,U])org.scalatest.Assertion <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (notWord: org.scalatest.matchers.dsl.NotWord)org.scalatest.matchers.dsl.ResultOfNotWordForAny[String] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  [TYPECLASS1[_], TYPECLASS2[_]](rightMatcherFactory2: org.scalatest.matchers.dsl.MatcherFactory2[String,TYPECLASS1,TYPECLASS2])(implicit typeClass1: TYPECLASS1[String], implicit typeClass2: TYPECLASS2[String])org.scalatest.Assertion <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  [TYPECLASS1[_]](rightMatcherFactory1: org.scalatest.matchers.dsl.MatcherFactory1[String,TYPECLASS1])(implicit typeClass1: TYPECLASS1[String])org.scalatest.Assertion <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (rightMatcherX1: org.scalatest.matchers.Matcher[String])org.scalatest.Assertion[0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (org.scalatest.Assertion)[0m
+[0m[[0m[31merror[0m] [0m[0m      "ImageConverterTest" should {[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

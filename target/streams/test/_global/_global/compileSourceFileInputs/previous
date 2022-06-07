@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.4":{"hashes":[["C:\\dev\\scala_dev\\NULP\\src\\test\\scala\\ImageConverterSpec.scala","a577be0fe487981181242cd47e2c623aac821741"]],"lastModifiedTimes":[]}}]

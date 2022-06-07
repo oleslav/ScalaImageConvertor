@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mImageConverterSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Image[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be equal to self[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be double inverted[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be double x fliped[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be double y fliped[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Color[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be the same after transformation[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should check transform[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be the same after invert[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA RGB[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be the same after transformation[0m[0m
